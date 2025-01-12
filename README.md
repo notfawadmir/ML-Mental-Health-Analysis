@@ -46,7 +46,7 @@ You can also open an **issue** to discuss potential improvements or ask question
 For questions, feedback, or collaboration opportunities, feel free to reach out:
 
 - **Email**: [notfawadmir@gmail.com](mailto:notfawadmir@gmail.com)
-- **GitHub**: [CyberFantics](https://github.com/notfawadmir)
+- **GitHub**: [notfawadmir](https://github.com/notfawadmir)
 
 Happy analyzing and learning! 😊
 
