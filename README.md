@@ -20,7 +20,7 @@ The dataset contains information collected from university students in Pakistan,
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/cyberfantics/ML-Mental-Health-Analysis.git
+   git clone https://github.com/notfawadmir/ML-Mental-Health-Analysis.git
    ```
 
 2. Navigate to the repository folder and open the Jupyter Notebook or Python script file.
